@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Kekichd
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning prog languages lol
+-  Hi
 
 <!---
 Kekichd/Kekichd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
